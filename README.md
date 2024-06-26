@@ -3,7 +3,11 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Néstor Velarde</h1></summary>
   </ul>
 </div>
-[ppt presentation](https://www.canva.com/design/DAGB_gbY2yg/ChgMaueHYRB7HPttgEWxvA/edit?utm_content=DAGB_gbY2yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Presentation](https://www.canva.com/design/DAGHVHvEPxo/Ta0uVZymUxE8KhmHKmvmDw/edit?utm_content=DAGHVHvEPxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+
+
 <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aprendiendo+y+creciendo+cada+d%C3%ADa.;Bienvenido+a+mi+mundo+GitHub,;Donde+comparto+mi+pasion,;por+la+programacion.;Gracias+por+visitar+mi+perfil.;Juntos+podemos+crear+algo+asombroso."></a> </p>
 
 <!--- snake -->
