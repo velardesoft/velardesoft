@@ -3,8 +3,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Néstor Velarde</h1></summary>
   </ul>
 </div>
-[Presentation](https://www.canva.com/design/DAGHVHvEPxo/Ta0uVZymUxE8KhmHKmvmDw/edit?utm_content=DAGHVHvEPxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+Canva ->  https://www.canva.com/design/DAGJR1WbUhA/QQwynEMtRCI-g0o5cv-OsQ/edit?utm_content=DAGJR1WbUhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Prototipo -> https://www.figma.com/proto/GgWAyaEj1gKG4LzjBgKMad/Prototipo-Desing-Thinking?page-id=0%3A1&node-id=1-322&viewport=290%2C408%2C0.18&t=iKwEPf5oJ5S15NJK-1&scaling=scale-down&starting-point-node-id=1%3A322 
 
 
 
