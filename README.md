@@ -8,6 +8,8 @@ Canva ->  https://www.canva.com/design/DAGJR1WbUhA/QQwynEMtRCI-g0o5cv-OsQ/edit?u
 Prototipo -> https://www.figma.com/proto/GgWAyaEj1gKG4LzjBgKMad/Prototipo-Desing-Thinking?page-id=0%3A1&node-id=1-322&viewport=290%2C408%2C0.18&t=iKwEPf5oJ5S15NJK-1&scaling=scale-down&starting-point-node-id=1%3A322 
 
 
+linkkkkkkk:    https://meet.google.com/djw-xjox-aga
+
 
 <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aprendiendo+y+creciendo+cada+d%C3%ADa.;Bienvenido+a+mi+mundo+GitHub,;Donde+comparto+mi+pasion,;por+la+programacion.;Gracias+por+visitar+mi+perfil.;Juntos+podemos+crear+algo+asombroso."></a> </p>
 
