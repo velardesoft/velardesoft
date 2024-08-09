@@ -1,5 +1,5 @@
-<center><a href="https://ibb.co/S624zBb"><img src="https://i.ibb.co/yNDcrqt/MiPerfil.png" alt="MiPerfil" border="0"></a>
-</center>
+<img src="img/MiPerfil.png" width='600' align="center">
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
 I am Néstor Velarde </h1>
 <h3 align="center">Software Engineering Student | Programming </h3>
@@ -7,14 +7,12 @@ I am Néstor Velarde </h1>
 
 <p align="center">
   <em>
-    <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
-    Hello, I am Néstor Velarde, <b>Sixth cycle</b> student at the <b>Peruvian University of Applied Sciences</b>, 
+    Hello 🙋, I am Néstor Velarde, <b>Sixth cycle</b> student at the <b>Peruvian University of Applied Sciences</b>, 
     a passionate self-taught programmer, obsessed
     with <b>development</b> and always seeking to find hidden patterns in development.
     <br> <br>
-    <b><i align="center">Thought :     
+    <b><i align="center">Thought👀 :     
      "The code is poetry"</i></b> </b>  </b>
-    <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
   </em>
 <br><br>
 
@@ -31,4 +29,4 @@ I am Néstor Velarde </h1>
 - 📄 Get to know a little more about me, <a href="img/Software.pdf" target="_blank">Curriculo Vitae</a>
 <br/>
 
-<center><img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></center>
+<center><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width='600' align="center"/></center>
