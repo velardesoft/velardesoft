@@ -22,7 +22,7 @@ I am Néstor Velarde </h1>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 📝 I am currently a student at <a href="https://www.upc.edu.pe/" target="blank">Peruvian University of Applied Sciences</a>
+- 📝 I am currently a student at <a href="https://www.upc.edu.pe/" target="_blank">Peruvian University of Applied Sciences</a>
 
 - 🌱 I am currently learning new software development tools
 
@@ -30,7 +30,10 @@ I am Néstor Velarde </h1>
 
 - 📫 How to reach me **u20211c221@gmail.com**
 
-- 📄 Get to know a little more about me, <a href="img/Software.pdf" target="_blank">Curriculo Vitae</a>
+- 📄 Get to know a little more about me, <a href="https://github.com/VelardeSoft/VelardeSoft/raw/main/img/Software.pdf" target="_blank">Curriculum Vitae</a>
+
 <br/>
 
-<center><img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width='600' align="center"/></center>
+<p align="center">
+    <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"
+</p>
