@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://ibb.co/S624zBb" target="_blank">
-        <img src="https://i.ibb.co/yNDcrqt/MiPerfil.png" alt="MiPerfil" border="0">
-    </a>
+    <img src="img/Beth.png" alt="MiPerfil" border="0">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
@@ -35,5 +33,5 @@ I am Néstor Velarde </h1>
 <br/>
 
 <p align="center">
-    <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"
+    <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 </p>
