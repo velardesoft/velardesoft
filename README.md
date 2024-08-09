@@ -28,7 +28,7 @@ I am Néstor Velarde </h1>
 
 - 📫 How to reach me **u20211c221@gmail.com**
 
-- 📄 Get to know a little more about me, <a href="https://github.com/VelardeSoft/VelardeSoft/raw/main/img/Software.pdf" target="_blank">Curriculum Vitae</a>
+- 📄 Get to know a little more about me, <a href="https://github.com/VelardeSoft/VelardeSoft/raw/main/img/CV-Software.pdf" target="_blank">Curriculum Vitae</a>
 
 <br/>
 
