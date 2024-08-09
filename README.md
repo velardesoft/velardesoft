@@ -1,4 +1,8 @@
-<img src="img/MiPerfil.png" width='600' align="center">
+<p align="center">
+    <a href="https://ibb.co/S624zBb" target="_blank">
+        <img src="https://i.ibb.co/yNDcrqt/MiPerfil.png" alt="MiPerfil" border="0">
+    </a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
 I am Néstor Velarde </h1>
