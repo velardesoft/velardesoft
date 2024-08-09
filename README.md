@@ -1,4 +1,4 @@
-<center><img src="img/MiPerfil.png"></center>
+<a href="https://ibb.co/S624zBb"><img src="https://i.ibb.co/yNDcrqt/MiPerfil.png" alt="MiPerfil" border="0"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
 I am Néstor Velarde </h1>
@@ -18,6 +18,7 @@ I am Néstor Velarde </h1>
   </em>
 <br><br>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 - 📝 I am currently a student at <a href="https://www.upc.edu.pe/" target="blank">Peruvian University of Applied Sciences</a>
 
 - 🌱 I am currently learning new software development tools
@@ -29,4 +30,4 @@ I am Néstor Velarde </h1>
 - 📄 Get to know a little more about me, <a href="img/Software.pdf" target="_blank">Curriculo Vitae</a>
 <br/>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
