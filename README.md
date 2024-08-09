@@ -26,7 +26,7 @@ I am Néstor Velarde </h1>
 
 - 🌱 I am currently learning new software development tools
 
-- 💬 Ask me about **Angular and Vue**
+- 💬 Ask me about **Angular, Vue and React**
 
 - 📫 How to reach me **u20211c221@gmail.com**
 
