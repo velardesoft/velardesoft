@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Néstor Velarde</a></h1>
 <h3 align="center">A passionate web application developer</h3>
 
+https://www.canva.com/design/DAGlynSE1sc/OtssXZcX-6X_ec3N85WpJw/edit 
+https://frock-web.github.io/LandingFrock/
+https://deft-tapioca-c27a9c.netlify.app/
+https://back-end-production-6a80.up.railway.app/index.html
+
 ## 👨🏻‍💻 &nbsp;About Me
 
 <a target="_blank" align="center">
