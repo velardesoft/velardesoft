@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Néstor Velarde</a></h1>
 <h3 align="center">A passionate web application developer</h3>
 
-https://upcedupe-my.sharepoint.com/:p:/g/personal/u202112295_upc_edu_pe/EWVHnx37eJtOnUm9tt4HycEBy6aJd4JURo-iL_E4kH_vaw?e=o4ev6y
-
 ## 👨🏻‍💻 &nbsp;About Me
 
 <a target="_blank" align="center">
