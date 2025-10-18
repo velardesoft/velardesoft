@@ -19,7 +19,7 @@
 
 - 📫 My email: codydevops@gmail.com
   
-- 📄 Check out my professional profile: [Ver CV]()
+- 📄 Check out my professional profile: [Ver CV](cv/micv.pdf)
 
 
 ## 🛠 &nbsp;Tech Stack
