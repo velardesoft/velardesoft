@@ -18,8 +18,8 @@
 - 🔭 I'm currently learning C# .NET Core
 
 - 📫 My email: codydevops@gmail.com
-
-- 📄 Check out my professional profile: <a href="https://codydevops.github.io/CV-Velarde/" target="blank">View Profile</a>
+  
+- 📄 Check out my professional profile: <a href="[https://codydevops.github.io/CV-Velarde/](https://drive.google.com/file/d/1gnFXJVsPMv4Z2QNuFFqi0if1r76pfEY4/view?usp=sharing)" target="blank">View Profile</a>
 
 ## 🛠 &nbsp;Tech Stack
 
