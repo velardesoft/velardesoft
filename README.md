@@ -19,9 +19,7 @@
 
 - 📫 My email: codydevops@gmail.com
   
-- 📄 Check out my professional profile: <a href="https://drive.google.com/file/d/1_sW5f2EByXCPOVppndq2FIRyFBNUoZbR/view?usp=sharing" target="_blank" style="display: block; width: 250px; padding: 10px; border: 1px solid #ccc; border-radius: 8px; text-align: center; text-decoration: none; color: #333; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); font-weight: bold;">
-  Ver CV
-</a>
+- 📄 Check out my professional profile: <a href="https://drive.google.com/file/d/1_sW5f2EByXCPOVppndq2FIRyFBNUoZbR/view?usp=sharing" target="_blank"> Ver CV </a>
 
 
 ## 🛠 &nbsp;Tech Stack
