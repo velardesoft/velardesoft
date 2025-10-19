@@ -18,8 +18,9 @@
 - 🔭 I'm currently learning C# .NET Core
 
 - 📫 My email: codydevops@gmail.com
-  
-- 📄 Linkeding profile: [!LinkedIn](https://www.linkedin.com/in/velardesoft)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velardesoft)
+
 
 
 ## 🛠 &nbsp;Tech Stack
