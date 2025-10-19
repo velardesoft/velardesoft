@@ -19,7 +19,7 @@
 
 - 📫 My email: codydevops@gmail.com
   
-- 📄 Check out my professional profile: [Ver CV](https://estudiante.upc.edu.pe/public)
+- 📄 Linkeding profile: [!LinkedIn](https://www.linkedin.com/in/velardesoft)
 
 
 ## 🛠 &nbsp;Tech Stack
