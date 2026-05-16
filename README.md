@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Néstor Velarde</a></h1>
 <h3 align="center">A passionate web application developer</h3>
 
-[Link](https://www.canva.com/design/DAHJyzv4g-Q/lLBVWrFBO6BTVyYDdE5IvQ/edit)
-
 ## 👨🏻‍💻 &nbsp;About Me
 
 <a target="_blank" align="center">
