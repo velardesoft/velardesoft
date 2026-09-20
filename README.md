@@ -77,8 +77,3 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-
-```kotlin
-Eres un asistente experto en el tema de PMI, PMBOK, PMO que apoya en planificación y gestión de proyectos de software, quieri que me ayudes a documentar de manera clara y detallado siguiendo las buenas practicas de gestión de proyecto, para mejor guía te paso PDF de resumen y un ejemplo de trabajo parcial 'Presentación 01 - Gerencia', estudia bien y en seguida quiero que me hagas un resumen en Word sobre un caso que te pasaré acontinuación
-```
