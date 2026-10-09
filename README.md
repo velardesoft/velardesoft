@@ -19,12 +19,6 @@
 
 Software Engineer focused on **scalable backend systems** and **AI-driven solutions**. I design clean, maintainable architectures with **DDD** and **microservices**, and build **intelligent agents** powered by LLMs that solve real business problems.
 
-<p>
-  <img src="https://img.shields.io/badge/📍_Lima,_Peru-161B22?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Focus-Backend_·_AI_Agents_·_Architecture-161B22?style=flat-square&labelColor=0B3D91" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_freelance-161B22?style=flat-square&labelColor=2EA043" alt="Status"/>
-</p>
-
 ---
 
 ### 🧭 &nbsp;What I build
