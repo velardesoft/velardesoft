@@ -16,7 +16,7 @@
 
 ---
 
-### `> About Me`
+### 📌 &nbsp;About Me
 
 Software Engineer focused on designing and shipping **scalable, maintainable backend systems** and **AI-driven solutions**. I work across web, mobile and backend, applying **DDD**, **modular monoliths** and **microservices**, and I build **intelligent agents** on top of Large Language Models.
 
