@@ -8,26 +8,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/velardesoft"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:codydevops@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/velardesoft"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance-2EA043?style=flat-square" alt="Open to freelance"/>
+  <a href="https://www.linkedin.com/in/velardesoft"><img src="https://img.shields.io/badge/LinkedIn-velardesoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:codydevops@gmail.com"><img src="https://img.shields.io/badge/Email-codydevops%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/51926335924"><img src="https://img.shields.io/badge/Phone-%2B51%20926%20335%20924-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
 </p>
 
 ---
 
-### 📌 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-Software Engineer focused on designing and shipping **scalable, maintainable backend systems** and **AI-driven solutions**. I work across web, mobile and backend, applying **DDD**, **modular monoliths** and **microservices**, and I build **intelligent agents** on top of Large Language Models.
+Software Engineer focused on **scalable backend systems** and **AI-driven solutions**. I design clean, maintainable architectures with **DDD** and **microservices**, and build **intelligent agents** powered by LLMs that solve real business problems.
 
-```python
-class NestorVelarde(SoftwareEngineer):
-    location     = "Lima, Peru 🇵🇪"
-    focus        = ["Backend & APIs", "AI Agents / LLMs / NLP", "Software Architecture"]
-    architecture = ["Domain-Driven Design", "Modular Monolith", "Microservices", "Event-Driven"]
-    principles   = ["Clean Code", "Testing", "CI/CD", "Security by design"]
-    open_to      = ["Freelance", "Collaboration on ambitious projects"]
-```
+<p>
+  <img src="https://img.shields.io/badge/📍_Lima,_Peru-161B22?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Backend_·_AI_Agents_·_Architecture-161B22?style=flat-square&labelColor=0B3D91" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_freelance-161B22?style=flat-square&labelColor=2EA043" alt="Status"/>
+</p>
 
 ---
 
@@ -84,15 +80,46 @@ class NestorVelarde(SoftwareEngineer):
 
 ---
 
-### 📌 &nbsp;Featured Projects
+### 💼 &nbsp;Selected Work
 
-<!-- Reemplaza REPO_1..REPO_4 por los nombres de tus repositorios destacados -->
-<p align="center">
-  <a href="https://github.com/velardesoft/prime-vue.git"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_1&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
-  <a href="https://github.com/velardesoft/REPO_2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_2&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
-  <a href="https://github.com/velardesoft/REPO_3"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_3&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
-  <a href="https://github.com/velardesoft/REPO_4"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_4&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 &nbsp;—&nbsp; PROJECT</sub>
+      <h3>Architecture Knowledge Base</h3>
+      <p>Living inventory of technical competencies, architectural and design patterns, and development methodologies — a structured record of engineering practice.</p>
+      <p><img src="https://img.shields.io/badge/Software_Architecture-0B3D91?style=flat-square"/> <img src="https://img.shields.io/badge/Design_Patterns-0B3D91?style=flat-square"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></p>
+      <a href="https://github.com/velardesoft/technical-stack-and-architectural-patterns-log"><b>Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 &nbsp;—&nbsp; PROJECT</sub>
+      <h3>PrimeVue Web Application</h3>
+      <p>Component-driven web application built with Vue.js and the PrimeVue UI library, focused on reusable layouts and a clean front-end structure.</p>
+      <p><img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PrimeVue-41B883?style=flat-square&logo=primevue&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white"/></p>
+      <a href="https://github.com/velardesoft/prime-vue"><b>Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <!-- TODO: reemplaza con tu proyecto de IA / agentes -->
+      <sub>03 &nbsp;—&nbsp; PROJECT</sub>
+      <h3>AI Agent · [Project name]</h3>
+      <p>[One sentence: the problem it solves, how the agent works and the measurable result.]</p>
+      <p><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-D97757?style=flat-square"/></p>
+      <a href="https://github.com/velardesoft/REPO_3"><b>Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- TODO: reemplaza con tu proyecto backend / microservicios -->
+      <sub>04 &nbsp;—&nbsp; PROJECT</sub>
+      <h3>Microservices Platform · [Project name]</h3>
+      <p>[One sentence: business domain, bounded contexts and how services communicate.]</p>
+      <p><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></p>
+      <a href="https://github.com/velardesoft/REPO_4"><b>Repository →</b></a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/velardesoft?tab=repositories"><sub><b>View all repositories →</b></sub></a></p>
 
 ---
 
