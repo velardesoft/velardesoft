@@ -16,7 +16,7 @@
 
 ---
 
-### `> whoami`
+### `> About Me`
 
 Software Engineer focused on designing and shipping **scalable, maintainable backend systems** and **AI-driven solutions**. I work across web, mobile and backend, applying **DDD**, **modular monoliths** and **microservices**, and I build **intelligent agents** on top of Large Language Models.
 
@@ -88,7 +88,7 @@ class NestorVelarde(SoftwareEngineer):
 
 <!-- Reemplaza REPO_1..REPO_4 por los nombres de tus repositorios destacados -->
 <p align="center">
-  <a href="https://github.com/velardesoft/REPO_1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_1&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
+  <a href="https://github.com/velardesoft/prime-vue.git"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_1&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
   <a href="https://github.com/velardesoft/REPO_2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_2&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
   <a href="https://github.com/velardesoft/REPO_3"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_3&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
   <a href="https://github.com/velardesoft/REPO_4"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_4&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
