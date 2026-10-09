@@ -1,79 +1,121 @@
-<h1 align="center">Hi 👋, I'm Néstor Velarde</a></h1>
-<h3 align="center">A passionate web application developer</h3>
-
-## 👨🏻‍💻 &nbsp;About Me
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk4cWx5cHlzaXNwZmF1dGZoNHducTczZWF3ODByMmFtbXQwaGs2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
-</a>
-
-- 📝 I'm currently a Software Engineering student
-
-- 👾 Student at the Peruvian University of Applied Sciences
-
-- 🌱 I'm currently collaborating on software development projects
-
-- 🤝 I'm available for freelance work
-
-- 🔭 I'm currently learning C# .NET Core
-
-- 📫 My email: codydevops@gmail.com
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velardesoft)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/velardesoft)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/velardesoft)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velardesoft)
-
-
-## 🛠 &nbsp;Tech Stack
-
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org)
-[![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown)
-![Profile views](https://komarev.com/ghpvc/?username=velardesoft)
-
-## 🗃 &nbsp;Databases
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-
-## 🧰 &nbsp;Version Controll & Tools 
-
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org)
-[![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
-[![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org)
-[![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
-[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org)
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-<a href="https://github.com/velardesoft">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=velardesoft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VelardeSoft&langs_count=10&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D91,100:1F6FEB&height=210&section=header&text=N%C3%A9stor%20Velarde&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20AI%20Agents&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Néstor Velarde"/>
 </p>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Scalable+backend+systems+%26+REST+APIs;Domain-Driven+Design+%7C+Microservices;Intelligent+agents+powered+by+LLMs;Clean+code.+Tested.+Containerized." alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/velardesoft"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:codydevops@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/velardesoft"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance-2EA043?style=flat-square" alt="Open to freelance"/>
+</p>
+
+---
+
+### `> whoami`
+
+Software Engineer focused on designing and shipping **scalable, maintainable backend systems** and **AI-driven solutions**. I work across web, mobile and backend, applying **DDD**, **modular monoliths** and **microservices**, and I build **intelligent agents** on top of Large Language Models.
+
+```python
+class NestorVelarde(SoftwareEngineer):
+    location     = "Lima, Peru 🇵🇪"
+    focus        = ["Backend & APIs", "AI Agents / LLMs / NLP", "Software Architecture"]
+    architecture = ["Domain-Driven Design", "Modular Monolith", "Microservices", "Event-Driven"]
+    principles   = ["Clean Code", "Testing", "CI/CD", "Security by design"]
+    open_to      = ["Freelance", "Collaboration on ambitious projects"]
+```
+
+---
+
+### 🧭 &nbsp;What I build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚙️ Backend & Architecture</h4>
+      REST APIs and distributed services with <b>.NET</b> and <b>Spring Boot</b>, structured around bounded contexts and clean, testable domains.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 AI & Intelligent Agents</h4>
+      LLM integrations, NLP pipelines and tool-using agents that automate real business workflows.
+    </td>
+    <td width="33%" valign="top">
+      <h4>📱 Web & Mobile</h4>
+      Production-ready interfaces with <b>Angular</b>, <b>Vue.js</b> and cross-platform apps with <b>Flutter</b>.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 &nbsp;Tech Stack
+
+<table>
+  <tr>
+    <td align="right"><sub><b>Languages</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=py,cs,java,kotlin,dart,cpp,ts&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Frameworks</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,angular,vue,flutter&theme=dark" alt="Frameworks"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Data & Messaging</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka&theme=dark" alt="Data"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DevOps & Cloud</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,linux,git,github&theme=dark" alt="DevOps"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI / LLM</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+      <img src="https://img.shields.io/badge/NLP-0B3D91?style=for-the-badge" alt="NLP"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 &nbsp;Featured Projects
+
+<!-- Reemplaza REPO_1..REPO_4 por los nombres de tus repositorios destacados -->
+<p align="center">
+  <a href="https://github.com/velardesoft/REPO_1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_1&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
+  <a href="https://github.com/velardesoft/REPO_2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_2&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
+  <a href="https://github.com/velardesoft/REPO_3"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_3&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
+  <a href="https://github.com/velardesoft/REPO_4"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=velardesoft&repo=REPO_4&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" width="49%"/></a>
+</p>
+
+---
+
+### 📊 &nbsp;GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=velardesoft&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=10" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=velardesoft&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&border_radius=10" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=velardesoft&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=30363D&hide_border=true&border_radius=10" alt="Streak"/>
+</p>
+
+<!-- Snake generado por tu propio workflow (.github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velardesoft/velardesoft/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/velardesoft/velardesoft/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/velardesoft/velardesoft/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:0B3D91,100:0D1117&height=110&section=footer" width="100%" alt="footer"/>
 </p>
